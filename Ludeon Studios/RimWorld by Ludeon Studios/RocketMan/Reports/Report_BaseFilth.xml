@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DuplicateReport Name="BaseFilth" Type="DuplicateReportType.Base" Length="3" IsCoreModInvolved="True">
+  <DuplicationRecord PackageId="Ludeon.RimWorld" ModName="Core" XmlFilePath="E:\RW_Return to Wasteland\Data\Core\Defs\ThingDefs_Misc\Filth_Various.xml">
+    <ThingDef Name="BaseFilth" Abstract="True">
+      <thingClass>Filth</thingClass>
+      <category>Filth</category>
+      <altitudeLayer>Filth</altitudeLayer>
+      <useHitPoints>false</useHitPoints>
+      <drawerType>MapMeshOnly</drawerType>
+      <graphicData>
+        <graphicClass>Graphic_Cluster</graphicClass>
+        <shaderType>Transparent</shaderType>
+      </graphicData>
+      <statBases>
+        <Beauty>-15</Beauty>
+        <Cleanliness>-5</Cleanliness>
+      </statBases>
+      <filth>
+        <cleaningSound>Interact_CleanFilth</cleaningSound>
+      </filth>
+    </ThingDef>
+  </DuplicationRecord>
+  <DuplicationRecord PackageId="CETeam.CombatExtended" ModName="Combat Extended" XmlFilePath="E:\RW_Return to Wasteland\Mods\Combat Extended\Defs\ThingDefs_Misc\Filth_Various.xml">
+    <ThingDef Name="BaseFilth" Abstract="True">
+      <thingClass>Filth</thingClass>
+      <category>Filth</category>
+      <altitudeLayer>Filth</altitudeLayer>
+      <useHitPoints>false</useHitPoints>
+      <drawerType>MapMeshOnly</drawerType>
+      <graphicData>
+        <graphicClass>Graphic_Cluster</graphicClass>
+        <shaderType>Transparent</shaderType>
+      </graphicData>
+      <statBases>
+        <Beauty>-15</Beauty>
+        <Cleanliness>-5</Cleanliness>
+      </statBases>
+    </ThingDef>
+  </DuplicationRecord>
+  <DuplicationRecord PackageId="crlsniper.realisticrooms" ModName="Realistic Rooms" XmlFilePath="E:\RW_Return to Wasteland\Mods\Realistic Rooms\v1.2\Defs\ThingDefs_Misc\Filth_Various.xml">
+    <ThingDef Name="BaseFilth" Abstract="True">
+      <thingClass>Filth</thingClass>
+      <category>Filth</category>
+      <altitudeLayer>Filth</altitudeLayer>
+      <useHitPoints>false</useHitPoints>
+      <drawerType>MapMeshOnly</drawerType>
+      <graphicData>
+        <graphicClass>Graphic_Cluster</graphicClass>
+        <shaderType>Transparent</shaderType>
+      </graphicData>
+      <statBases>
+        <Beauty>-4</Beauty>
+        <Cleanliness>-5</Cleanliness>
+      </statBases>
+      <filth>
+        <cleaningSound>Interact_CleanFilth</cleaningSound>
+      </filth>
+    </ThingDef>
+  </DuplicationRecord>
+</DuplicateReport>

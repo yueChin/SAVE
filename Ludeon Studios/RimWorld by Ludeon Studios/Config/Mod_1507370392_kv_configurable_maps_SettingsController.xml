@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ConfigurableMaps.Settings">
+		<WorldSettings>
+			<Commonalities />
+		</WorldSettings>
+		<MapSettings>
+			<Fertility>
+				<defName IsNull="True" />
+			</Fertility>
+			<Water>
+				<defName IsNull="True" />
+			</Water>
+			<Geysers>
+				<defName IsNull="True" />
+			</Geysers>
+			<Mountain>
+				<defName IsNull="True" />
+			</Mountain>
+			<OreLevels>
+				<defName IsNull="True" />
+			</OreLevels>
+			<Mineables>
+				<li>
+					<defName>MineableSteel</defName>
+				</li>
+				<li>
+					<defName>MineableSilver</defName>
+					<multiplier>0.1</multiplier>
+				</li>
+				<li>
+					<defName>MineableGold</defName>
+					<multiplier>0.07</multiplier>
+				</li>
+				<li>
+					<defName>MineableUranium</defName>
+					<multiplier>0.12</multiplier>
+				</li>
+				<li>
+					<defName>MineablePlasteel</defName>
+					<multiplier>0.05</multiplier>
+				</li>
+				<li>
+					<defName>MineableJade</defName>
+					<multiplier>0.065</multiplier>
+				</li>
+				<li>
+					<defName>MineableComponentsIndustrial</defName>
+				</li>
+				<li>
+					<defName>MineableSalt</defName>
+					<multiplier>0.1</multiplier>
+				</li>
+			</Mineables>
+			<AnimalDensity>
+				<defName IsNull="True" />
+			</AnimalDensity>
+			<PlantDensity>
+				<defName IsNull="True" />
+			</PlantDensity>
+			<Ruins>
+				<defName IsNull="True" />
+			</Ruins>
+			<Shrines>
+				<defName IsNull="True" />
+			</Shrines>
+			<AncientPipelineSection>
+				<defName IsNull="True" />
+			</AncientPipelineSection>
+			<AncientJunkClusters>
+				<defName IsNull="True" />
+			</AncientJunkClusters>
+		</MapSettings>
+	</ModSettings>
+</SettingsBlock>

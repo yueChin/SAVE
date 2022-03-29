@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="aRandomKiwi.RimThemes.Settings">
+		<disableVideoBg>False</disableVideoBg>
+		<disableRandomBg>False</disableRandomBg>
+		<curRandomBg>-1§Rim-Life 2</curRandomBg>
+		<lastVersionInfo>RimThemes NX</lastVersionInfo>
+	</ModSettings>
+</SettingsBlock>

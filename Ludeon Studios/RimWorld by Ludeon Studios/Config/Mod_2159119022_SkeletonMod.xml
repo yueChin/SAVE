@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Skeleton.SkeletonSettings">
+		<AddHediffToAll>True</AddHediffToAll>
+		<ReanimateCorpses>True</ReanimateCorpses>
+		<AllowZombies>True</AllowZombies>
+		<OnlyNonBuried>True</OnlyNonBuried>
+		<OnlyDuringEclipse>True</OnlyDuringEclipse>
+		<ReanimateChance>0.2546948</ReanimateChance>
+	</ModSettings>
+</SettingsBlock>

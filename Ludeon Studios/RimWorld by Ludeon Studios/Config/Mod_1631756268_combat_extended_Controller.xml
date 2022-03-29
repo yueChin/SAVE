@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CombatExtended.Settings">
+		<allowMeleeHunting>True</allowMeleeHunting>
+		<showExtraTooltips>True</showExtraTooltips>
+		<rightClickAmmoSelect>True</rightClickAmmoSelect>
+		<realisticCookOff>True</realisticCookOff>
+		<ShowTutorialPopup>False</ShowTutorialPopup>
+	</ModSettings>
+</SettingsBlock>

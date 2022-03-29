@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DuplicateReport Name="AnimalThingBase" Type="DuplicateReportType.Base" Length="2" IsCoreModInvolved="True">
+  <DuplicationRecord PackageId="Ludeon.RimWorld" ModName="Core" XmlFilePath="E:\RW_Return to Wasteland\Data\Core\Defs\ThingDefs_Races\Races_Animal_Base.xml">
+    <ThingDef ParentName="BasePawn" Name="AnimalThingBase" Abstract="True">
+      <statBases>
+        <LeatherAmount>30</LeatherAmount>
+      </statBases>
+      <race>
+        <thinkTreeMain>Animal</thinkTreeMain>
+        <thinkTreeConstant>AnimalConstant</thinkTreeConstant>
+        <hasGenders>true</hasGenders>
+        <nameGenerator>NamerAnimalGenericMale</nameGenerator>
+        <nameGeneratorFemale>NamerAnimalGenericFemale</nameGeneratorFemale>
+        <manhunterOnDamageChance>0.02</manhunterOnDamageChance>
+        <manhunterOnTameFailChance>0.013</manhunterOnTameFailChance>
+        <nameOnNuzzleChance>0.5</nameOnNuzzleChance>
+        <trainability>Intermediate</trainability>
+        <hediffGiverSets>
+          <li>OrganicStandard</li>
+        </hediffGiverSets>
+      </race>
+      <recipes>
+        <li>ExciseCarcinoma</li>
+        <li>AdministerMechSerumHealer</li>
+        <li>RemoveBodyPart</li>
+        <li>Euthanize</li>
+        <li>Anesthetize</li>
+        <li>CureScaria</li>
+        <li MayRequire="Ludeon.RimWorld.Royalty">CureBloodRot</li>
+      </recipes>
+    </ThingDef>
+  </DuplicationRecord>
+  <DuplicationRecord PackageId="erdelf.HumanoidAlienRaces" ModName="Humanoid Alien Races 2.0" XmlFilePath="E:\RW_Return to Wasteland\Mods\Humanoid Alien Races 2.0\1.2\Defs\Races_Animal_Base.xml">
+    <ThingDef ParentName="BasePawn" Name="AnimalThingBase" Abstract="True">
+      <statBases>
+        <LeatherAmount>30</LeatherAmount>
+        <MarketValue>1750000</MarketValue>
+      </statBases>
+      <race>
+        <thinkTreeMain>Animal</thinkTreeMain>
+        <thinkTreeConstant>AnimalConstant</thinkTreeConstant>
+        <hasGenders>true</hasGenders>
+        <nameGenerator>NamerAnimalGenericMale</nameGenerator>
+        <nameGeneratorFemale>NamerAnimalGenericFemale</nameGeneratorFemale>
+        <manhunterOnDamageChance>0.02</manhunterOnDamageChance>
+        <manhunterOnTameFailChance>0.013</manhunterOnTameFailChance>
+        <nameOnNuzzleChance>0.5</nameOnNuzzleChance>
+        <trainability>Intermediate</trainability>
+        <hediffGiverSets>
+          <li>OrganicStandard</li>
+        </hediffGiverSets>
+      </race>
+      <recipes>
+        <li>ExciseCarcinoma</li>
+        <li>AdministerMechSerumHealer</li>
+        <li>RemoveBodyPart</li>
+        <li>Euthanize</li>
+        <li>Anesthetize</li>
+        <li>CureScaria</li>
+        <li MayRequire="Ludeon.RimWorld.Royalty">CureBloodRot</li>
+      </recipes>
+    </ThingDef>
+  </DuplicationRecord>
+</DuplicateReport>

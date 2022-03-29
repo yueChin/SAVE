@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CaravanAdventures.ModSettings">
+		<psyfocusToRestore>0.2</psyfocusToRestore>
+		<plantScoreMultiplier>2</plantScoreMultiplier>
+		<buffShrineRewards>False</buffShrineRewards>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DuplicateReport Name="BaseProjectileNeolithic" Type="DuplicateReportType.Base" Length="2" IsCoreModInvolved="True">
+  <DuplicationRecord PackageId="Ludeon.RimWorld" ModName="Core" XmlFilePath="E:\RW_Return to Wasteland\Data\Core\Defs\ThingDefs_Misc\Weapons\RangedNeolithic.xml">
+    <ThingDef Name="BaseProjectileNeolithic" Abstract="True">
+      <category>Projectile</category>
+      <tickerType>Normal</tickerType>
+      <altitudeLayer>Projectile</altitudeLayer>
+      <thingClass>Bullet</thingClass>
+      <label>arrow</label>
+      <useHitPoints>False</useHitPoints>
+      <neverMultiSelect>True</neverMultiSelect>
+      <graphicData>
+        <shaderType>Transparent</shaderType>
+      </graphicData>
+    </ThingDef>
+  </DuplicationRecord>
+  <DuplicationRecord PackageId="CETeam.CombatExtended" ModName="Combat Extended" XmlFilePath="E:\RW_Return to Wasteland\Mods\Combat Extended\Defs\ThingDefs_Misc\Weapons_RangedNeolithic.xml">
+    <ThingDef Name="BaseProjectileNeolithic" Abstract="True">
+      <category>Projectile</category>
+      <tickerType>Normal</tickerType>
+      <altitudeLayer>Projectile</altitudeLayer>
+      <thingClass>CombatExtended.BulletCE</thingClass>
+      <label>arrow</label>
+      <useHitPoints>False</useHitPoints>
+      <neverMultiSelect>True</neverMultiSelect>
+      <graphicData>
+        <shaderType>Transparent</shaderType>
+      </graphicData>
+      <projectile Class="CombatExtended.ProjectilePropertiesCE" />
+    </ThingDef>
+  </DuplicationRecord>
+</DuplicateReport>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DuplicateReport Name="UnfinishedBase" Type="DuplicateReportType.Base" Length="2" IsCoreModInvolved="True">
+  <DuplicationRecord PackageId="Ludeon.RimWorld" ModName="Core" XmlFilePath="E:\RW_Return to Wasteland\Data\Core\Defs\ThingDefs_Items\Items_Unfinished.xml">
+    <ThingDef Name="UnfinishedBase" Abstract="True">
+      <thingClass>UnfinishedThing</thingClass>
+      <category>Item</category>
+      <label>unfinished thing</label>
+      <graphicData>
+        <texPath>Things/Item/Unfinished/UnfinishedSculpture</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </graphicData>
+      <altitudeLayer>Item</altitudeLayer>
+      <useHitPoints>true</useHitPoints>
+      <isUnfinishedThing>true</isUnfinishedThing>
+      <scatterableOnMapGen>false</scatterableOnMapGen>
+      <selectable>true</selectable>
+      <tradeability>None</tradeability>
+      <drawerType>RealtimeOnly</drawerType>
+      <statBases>
+        <MaxHitPoints>50</MaxHitPoints>
+        <DeteriorationRate>2.0</DeteriorationRate>
+        <Beauty>-8</Beauty>
+        <Mass>1</Mass>
+      </statBases>
+      <comps>
+        <li Class="CompProperties_Forbiddable" />
+      </comps>
+      <alwaysHaulable>true</alwaysHaulable>
+      <rotatable>false</rotatable>
+      <pathCost>14</pathCost>
+      <thingCategories>
+        <li>Unfinished</li>
+      </thingCategories>
+      <stuffCategories>
+        <li>Metallic</li>
+        <li>Woody</li>
+        <li>Stony</li>
+      </stuffCategories>
+    </ThingDef>
+  </DuplicationRecord>
+  <DuplicationRecord PackageId="CETeam.CombatExtended" ModName="Combat Extended" XmlFilePath="E:\RW_Return to Wasteland\Mods\Combat Extended\Defs\ThingDefs_Items\Items_Unfinished.xml">
+    <ThingDef Name="UnfinishedBase" Abstract="True">
+      <thingClass>UnfinishedThing</thingClass>
+      <category>Item</category>
+      <label>unfinished thing</label>
+      <graphicData>
+        <texPath>Things/Item/Unfinished/UnfinishedSculpture</texPath>
+        <graphicClass>Graphic_Single</graphicClass>
+      </graphicData>
+      <altitudeLayer>Item</altitudeLayer>
+      <useHitPoints>true</useHitPoints>
+      <isUnfinishedThing>true</isUnfinishedThing>
+      <scatterableOnMapGen>false</scatterableOnMapGen>
+      <selectable>true</selectable>
+      <tradeability>None</tradeability>
+      <drawerType>RealtimeOnly</drawerType>
+      <statBases>
+        <MaxHitPoints>50</MaxHitPoints>
+        <DeteriorationRate>2.0</DeteriorationRate>
+        <Beauty>-8</Beauty>
+        <Mass>1</Mass>
+      </statBases>
+      <comps>
+        <li Class="CompProperties_Forbiddable" />
+      </comps>
+      <alwaysHaulable>true</alwaysHaulable>
+      <rotatable>false</rotatable>
+      <pathCost>15</pathCost>
+      <thingCategories>
+        <li>Unfinished</li>
+      </thingCategories>
+      <stuffCategories>
+        <li>Metallic</li>
+        <li>Woody</li>
+        <li>Stony</li>
+      </stuffCategories>
+    </ThingDef>
+  </DuplicationRecord>
+</DuplicateReport>

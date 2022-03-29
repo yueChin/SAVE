@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DynamicDiplomacy.NPCDiploModSettings">
+		<repEnableExpansion>True</repEnableExpansion>
+		<repAllowDistanceCalc>True</repAllowDistanceCalc>
+		<repAllowAlliance>True</repAllowAlliance>
+		<repAllowCloneFaction>True</repAllowCloneFaction>
+		<repExpansionRadius>15</repExpansionRadius>
+	</ModSettings>
+</SettingsBlock>

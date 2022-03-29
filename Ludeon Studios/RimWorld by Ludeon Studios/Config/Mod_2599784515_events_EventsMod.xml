@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Events.Settings.Settings">
+		<incidentSettings>
+			<keys>
+				<li>Events_IncidentDef_MountainAir</li>
+				<li>Events_IncidentDef_SeaAir</li>
+				<li>Events_IncidentDef_DeathOfDistantStar</li>
+				<li>Events_IncidentDef_ParadeOfPlanets</li>
+				<li>Events_IncidentDef_SuperNova</li>
+				<li>Events_IncidentDef_SupervolcanoEruption</li>
+				<li>Events_IncidentDef_IceStorm</li>
+				<li>Events_IncidentDef_IceFlurry</li>
+				<li>Events_IncidentDef_Constellation</li>
+				<li>Events_IncidentDef_Flood</li>
+				<li>Events_IncidentDef_SolarSuperstorm</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</incidentSettings>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DuplicateReport Name="BenchBase" Type="DuplicateReportType.Base" Length="2" IsCoreModInvolved="True">
+  <DuplicationRecord PackageId="Ludeon.RimWorld" ModName="Core" XmlFilePath="E:\RW_Return to Wasteland\Data\Core\Defs\ThingDefs_Buildings\Buildings_Production.xml">
+    <ThingDef Name="BenchBase" ParentName="BuildingBase" Abstract="True">
+      <canOverlapZones>false</canOverlapZones>
+      <minifiedDef>MinifiedThing</minifiedDef>
+      <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+      <thingCategories>
+        <li>BuildingsProduction</li>
+      </thingCategories>
+      <statBases>
+        <Mass>20</Mass>
+      </statBases>
+      <interactionCellIcon>DiningChair</interactionCellIcon>
+      <comps>
+        <li>
+          <compClass>CompReportWorkSpeed</compClass>
+        </li>
+      </comps>
+      <placeWorkers>
+        <li>PlaceWorker_ReportWorkSpeedPenalties</li>
+      </placeWorkers>
+      <building>
+        <buildingTags>
+          <li>Production</li>
+        </buildingTags>
+      </building>
+    </ThingDef>
+  </DuplicationRecord>
+  <DuplicationRecord PackageId="CETeam.CombatExtended" ModName="Combat Extended" XmlFilePath="E:\RW_Return to Wasteland\Mods\Combat Extended\Defs\ThingDefs_Buildings\Buildings_Production.xml">
+    <ThingDef Name="BenchBase" ParentName="BuildingBase" Abstract="True">
+      <canOverlapZones>false</canOverlapZones>
+      <minifiedDef>MinifiedThing</minifiedDef>
+      <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+      <thingCategories>
+        <li>BuildingsProduction</li>
+      </thingCategories>
+      <statBases>
+        <Mass>20</Mass>
+      </statBases>
+      <building>
+        <forceShowRoomStats>true</forceShowRoomStats>
+      </building>
+      <interactionCellIcon>DiningChair</interactionCellIcon>
+      <comps>
+        <li>
+          <compClass>CompReportWorkSpeed</compClass>
+        </li>
+      </comps>
+      <placeWorkers>
+        <li>PlaceWorker_ReportWorkSpeedPenalties</li>
+      </placeWorkers>
+    </ThingDef>
+  </DuplicationRecord>
+</DuplicateReport>

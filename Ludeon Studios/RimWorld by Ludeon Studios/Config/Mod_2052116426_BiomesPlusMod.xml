@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BiomesPlus.BiomesPlusSettings">
+		<PoisonForest>71</PoisonForest>
+		<Volcano>84</Volcano>
+		<Wasteland>72</Wasteland>
+		<VolcanoVariety>True</VolcanoVariety>
+	</ModSettings>
+</SettingsBlock>

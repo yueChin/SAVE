@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Fluffy_Relations.Settings">
+		<CENTRAL_CONSTANT>0.1</CENTRAL_CONSTANT>
+		<MAX_TEMPERATURE>0.005</MAX_TEMPERATURE>
+		<REPULSIVE_CONSTANT>10000</REPULSIVE_CONSTANT>
+	</ModSettings>
+</SettingsBlock>

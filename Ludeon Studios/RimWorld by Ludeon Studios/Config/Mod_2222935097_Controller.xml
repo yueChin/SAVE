@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimWar.Options.Settings">
+		<randomizeFactionBehavior>True</randomizeFactionBehavior>
+		<useRimWarVictory>True</useRimWarVictory>
+		<maxFactionSettlements>50</maxFactionSettlements>
+		<maxSettlementScanRange>50</maxSettlementScanRange>
+		<settlementScanRangeDivider>120</settlementScanRangeDivider>
+		<maxFactionObjects>100</maxFactionObjects>
+		<averageEventFrequency>100</averageEventFrequency>
+		<settlementEventDelay>100000</settlementEventDelay>
+		<settlementScanDelay>120000</settlementScanDelay>
+		<woEventFrequency>550</woEventFrequency>
+		<objectMovementMultiplier>1.2</objectMovementMultiplier>
+		<rwdUpdateFrequency>5000</rwdUpdateFrequency>
+		<alertRange>4</alertRange>
+		<letterNotificationRange>5</letterNotificationRange>
+		<heatFrequency>5000</heatFrequency>
+		<noPermanentEnemies>False</noPermanentEnemies>
+		<threadingEnabled>True</threadingEnabled>
+	</ModSettings>
+</SettingsBlock>

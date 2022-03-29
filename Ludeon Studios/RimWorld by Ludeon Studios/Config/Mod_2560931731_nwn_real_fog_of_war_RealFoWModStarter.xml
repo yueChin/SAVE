@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimWorldRealFoW.RFOWSettings">
+		<fogAlpha>Dark</fogAlpha>
+		<wildLifeTabVisible>False</wildLifeTabVisible>
+		<prisonerGiveVision>True</prisonerGiveVision>
+		<hideEventNegative>True</hideEventNegative>
+		<hideEventNeutral>True</hideEventNeutral>
+		<hideEventPositive>True</hideEventPositive>
+		<hideThreatBig>True</hideThreatBig>
+		<hideThreatSmall>True</hideThreatSmall>
+		<censorMode>True</censorMode>
+		<hideSpeakBubble>True</hideSpeakBubble>
+	</ModSettings>
+</SettingsBlock>

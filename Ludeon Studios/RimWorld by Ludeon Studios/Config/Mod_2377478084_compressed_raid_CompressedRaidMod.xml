@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CompressedRaid.CompressedRaidModSettings">
+		<radioTextInput>False</radioTextInput>
+		<radioSliderInput>True</radioSliderInput>
+		<gainFactorMult>3.58</gainFactorMult>
+		<allowRaidFriendly>True</allowRaidFriendly>
+		<enableAddBionicsOption>True</enableAddBionicsOption>
+		<enableRefineGearOption>True</enableRefineGearOption>
+		<optionSetBiocode>True</optionSetBiocode>
+		<optionAddDeathAcidifier>True</optionAddDeathAcidifier>
+		<enableAddDrugOption>True</enableAddDrugOption>
+		<withoutSocialDrug>True</withoutSocialDrug>
+		<withoutHardDrug>True</withoutHardDrug>
+		<withoutMedicalDrug>True</withoutMedicalDrug>
+		<withoutNonVolatilityDrug>True</withoutNonVolatilityDrug>
+	</ModSettings>
+</SettingsBlock>
