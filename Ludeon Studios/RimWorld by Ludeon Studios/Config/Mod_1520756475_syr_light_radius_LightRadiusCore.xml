@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="Syr_LightRadius.LightRadiusSettings">
-		<SyrLightRadius_innerLight>True</SyrLightRadius_innerLight>
-		<SyrLightRadius_outerLight>True</SyrLightRadius_outerLight>
-	</ModSettings>
-</SettingsBlock>

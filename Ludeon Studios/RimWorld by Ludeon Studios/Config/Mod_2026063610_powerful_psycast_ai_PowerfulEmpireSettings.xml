@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="PowerfulEmpire.PowerfulEmpireModSettings">
-		<repAllowAIHeatPush>True</repAllowAIHeatPush>
-		<repAllowBerserkPulse>True</repAllowBerserkPulse>
-		<repAllowManhunterPulse>True</repAllowManhunterPulse>
-		<repAllowBerserk>True</repAllowBerserk>
-	</ModSettings>
-</SettingsBlock>

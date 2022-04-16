@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="ZergInsectoids.ZergInsectoidsModSettings">
-		<repAllowEvolutionDangerMote>True</repAllowEvolutionDangerMote>
-		<repGracePeriodMonth>18</repGracePeriodMonth>
-	</ModSettings>
-</SettingsBlock>

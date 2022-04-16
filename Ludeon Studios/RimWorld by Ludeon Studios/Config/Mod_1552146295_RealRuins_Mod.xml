@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="RealRuins.RealRuins_ModSettings">
-		<preserveStandardRuins>True</preserveStandardRuins>
-		<ruinsCostCap>1.000001E+09</ruinsCostCap>
-		<defaultScatterOptions />
-	</ModSettings>
-</SettingsBlock>

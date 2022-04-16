@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="RuntimeGC.RuntimeGCSettings">
-		<MemoryUsageBarUpperBoundMb>8192</MemoryUsageBarUpperBoundMb>
-		<AutoCleanLanguageData>True</AutoCleanLanguageData>
-	</ModSettings>
-</SettingsBlock>

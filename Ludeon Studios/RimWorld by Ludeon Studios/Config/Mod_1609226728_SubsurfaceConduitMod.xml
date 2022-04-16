@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="MUR_SubsurfaceConduit.SubsurfaceConduitSettings">
-		<MURSubsurfaceConduit_steelCost>3</MURSubsurfaceConduit_steelCost>
-		<MURSubsurfaceConduit_buildWork>50</MURSubsurfaceConduit_buildWork>
-		<MURSubsurfaceConduit_canBePlacedUnderWall>False</MURSubsurfaceConduit_canBePlacedUnderWall>
-	</ModSettings>
-</SettingsBlock>

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="ModManager.ModManagerSettings">
-		<ShowPromotions_NotActive>True</ShowPromotions_NotActive>
-		<TrimTags>False</TrimTags>
-		<AddHugsLibToNewModLists>False</AddHugsLibToNewModLists>
-		<ShowVersionChecksOnSteamMods>True</ShowVersionChecksOnSteamMods>
-	</ModSettings>
-</SettingsBlock>
